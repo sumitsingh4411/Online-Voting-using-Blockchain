@@ -1,0 +1,37 @@
+.BJP{
+    height: 100px;
+    object-fit: contain;
+}
+.congress{
+    height: 100px;
+    object-fit: contain;
+}
+.vote{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}.vote >h1{
+    text-align: center;
+}
+.id1{
+    display: flex;
+    flex: 0.2;
+    justify-content: space-between;
+    margin-top: 30px;
+    border: 1px solid lightgray;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.id2{
+    flex: 0.2;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    border: 1px solid lightgrey;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
