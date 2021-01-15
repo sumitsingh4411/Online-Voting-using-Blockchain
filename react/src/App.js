@@ -11,7 +11,6 @@ function App() {
   const [account, setAccount] = useState("");
   const [loading, setLoading] = useState(true);
   const [Elect, setElect] = useState({});
-  const [refresh, setrefresh] = useState(0);
   const[candidate1,setcandidate1]=useState('');
   const[candidate2,setcandidate2]=useState('');
   useEffect(() => {
