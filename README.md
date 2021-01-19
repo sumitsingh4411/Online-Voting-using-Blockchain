@@ -1,4 +1,13 @@
-# Online-Voting-System
+# Online Voting Using Blockchain
+
+
+## Introduction
+This is a code repository for the corresponding Online Voting Using Blockchain . 
+
+In this repository, we're going to build a fully functional netflix application using reactjs and Blockchain Technology. 
+
+While building it you're going to learn many advanced  topic React , JavaScript ,Solidity programming language, remix ide , metamask, etherum, and many more.
+
 
 Reasons to vote :
 
